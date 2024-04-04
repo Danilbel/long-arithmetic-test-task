@@ -2,6 +2,11 @@
 
 This is a realization of the solution to the [task Long Arithmetic](TASK.md).
 
+> Approximate lead time: 4 hours
+
+### Requirements
+* Java 17
+
 ### How to run unit tests
 
 The first step is to clone the repository
